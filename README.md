@@ -89,3 +89,4 @@ http.ListenAndServe(":8080", composer)
 
 ## License
 
+Distributed under the `GNU Lesser General Public License, version 2.1`. See LICENSE file for more information.
